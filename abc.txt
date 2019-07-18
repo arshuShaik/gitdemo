@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 20AD-B194
+
+ Directory of C:\Users\ARSHAD SHAIK\Desktop\New folder
+
+18-07-2019  13:14    <DIR>          .
+18-07-2019  13:14    <DIR>          ..
+18-07-2019  13:14                 0 abc.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  166,486,274,048 bytes free
